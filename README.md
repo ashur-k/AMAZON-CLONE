@@ -16,6 +16,8 @@
 ### Installing Frontend framework for UI design 
   yarn add @material-ui/core
 
-### Installing MAterial UI Icons:
-    yarn add @material-ui/icons
-  
+### Installing Material UI Icons:
+   yarn add @material-ui/icons
+
+### Installing React-Router-Dome for site navigation
+  yarn add react-router-dom
